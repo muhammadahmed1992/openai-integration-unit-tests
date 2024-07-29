@@ -1,0 +1,6 @@
+@CategoriesProcessorWithOpenAi_HostAddress = http://localhost:5217
+
+GET {{CategoriesProcessorWithOpenAi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
